@@ -1,5 +1,5 @@
 # discordBot_NicolasCage
-Website scrapping/automation learning resource
+User based discord bot and a good web scrapping/automation learning resource. 
 
 **Prerequisites:**
 * Python 2.7
