@@ -8,4 +8,5 @@ Website scrapping/automation learning resource
 * Selenium - https://pypi.python.org/pypi/selenium/2.7.0 or use "pip install -U selenium"
 * BeautifulSoup - https://pypi.python.org/pypi/beautifulsoup4
 
-
+**Preview:**
+![](http://i.imgur.com/nX7Zjal.png)
