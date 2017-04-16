@@ -1,4 +1,4 @@
-# Discord-bot-user-account-
+# discordBot_NicolasCage
 Website scrapping/automation learning resource
 
 **Prerequisites:**
