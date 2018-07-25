@@ -30,14 +30,7 @@ def GetComments():
 
 def GetCurrentMsg():
     coms = GetComments()
-    return coms[len(coms)-1]["name"], coms[len(coms)-1]["msg"][len(coms[len(coms)-1]["msg"])-1]
-    '''
-    #it could be written in this way too:
-    com = GetComments()[len(coms)-1]
-    name = com["Name"]
-    msg = com["msg"][len(com["msg"])-1] # com[msg] is a list, that's why there's some more complexity (to get only the last message of the last comment)
-    return name, msg
-    '''
+    return coms[-1]["name"], coms[-1]["msg"][-1]
 
 def SendMsg(msg):
     global br # br is a browser object
